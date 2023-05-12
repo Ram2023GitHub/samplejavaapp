@@ -16,6 +16,8 @@ public class CaseInsensitiveComparator extends GenericComparator {
          * sortAscending = true then ascending
          * sortAscending = false then descending
          */
+        
+        
         public CaseInsensitiveComparator(boolean sortAscending) {
                 super(sortAscending);
                 this.targetMethod = null;
