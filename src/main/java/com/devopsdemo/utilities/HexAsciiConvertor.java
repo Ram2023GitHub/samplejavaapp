@@ -8,6 +8,8 @@ public class HexAsciiConvertor {
 	 * @return outputAscii
 	 */
 	
+	
+	
 	public static String convertHexToASCII(String hexValue)
 	{
 		StringBuilder outputAscii = new StringBuilder();
