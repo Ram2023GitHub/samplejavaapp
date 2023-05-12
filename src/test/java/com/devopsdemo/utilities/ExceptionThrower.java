@@ -17,7 +17,7 @@ public class ExceptionThrower {
         public void doNothing() throws IOException {
                 throw new IOException("TESTIOEXCEPTION"); 
         }
-        
+        /* this is void doXXX method*/
         private void doXXX() { 
                 try { 
                         doYYY(); 
