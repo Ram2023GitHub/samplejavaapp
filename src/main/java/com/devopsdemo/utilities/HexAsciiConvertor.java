@@ -7,9 +7,7 @@ public class HexAsciiConvertor {
 	 * @param hexValue
 	 * @return outputAscii
 	 */
-	
-	
-	
+		
 	public static String convertHexToASCII(String hexValue)
 	{
 		StringBuilder outputAscii = new StringBuilder();
